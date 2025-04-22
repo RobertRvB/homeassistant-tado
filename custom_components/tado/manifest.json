@@ -1,0 +1,7 @@
+{
+    "domain": "tado",
+    "name": "Tado API",
+    "iot_class": "cloud_polling",
+    "requirements": ["python-tado"],
+    "version": "2025.04.22"
+  }
