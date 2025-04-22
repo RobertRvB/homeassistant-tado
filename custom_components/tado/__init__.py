@@ -1,0 +1,1 @@
+""" Home assistant Tado API integration """
